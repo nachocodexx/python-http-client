@@ -14,6 +14,6 @@ while True:
         break
     response += recv
 
-print response
+print(response)
 client_socket.close()
 
